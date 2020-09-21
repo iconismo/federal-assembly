@@ -1,8 +1,7 @@
-# federal-assembly
- Анализ стенограмм посланий Президента Федеральному Собранию
+# Анализ стенограмм посланий Президента Федеральному Собранию
 
 Стенограммы:
-* http://kremlin.ru/events/president/transcripts/messages/62582
+- http://kremlin.ru/events/president/transcripts/messages/62582
 - http://kremlin.ru/events/president/transcripts/messages/59863
 - http://kremlin.ru/events/president/transcripts/messages/56957
 - http://kremlin.ru/events/president/transcripts/messages/53379
