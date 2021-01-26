@@ -1,5 +1,6 @@
 # Анализ стенограмм посланий Президента Федеральному Собранию
 
+## Источник данных
 Стенограммы:
 - http://kremlin.ru/events/president/transcripts/messages/62582 (2020-01-15)
 - http://kremlin.ru/events/president/transcripts/messages/59863 (2019-02-20)
@@ -14,3 +15,9 @@
 - http://kremlin.ru/events/president/transcripts/messages/5979 (2009-11-12)
 - http://kremlin.ru/events/president/transcripts/messages/1968 (2008-11-05)
 
+## Основные этапы
+1. Загрузка текстов федеральных посланий
+2. Построение wordcloud
+  
+
+## Структура проекта
